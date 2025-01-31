@@ -1,4 +1,4 @@
-CS Elective: Machine Learning
+ # CS Elective: Machine Learning
 
-Jimenez, Christian  Rhyss R.__
-Ofamin, Christian__
+## Jimenez, Christian  Rhyss R.
+## Ofamin, Christian
